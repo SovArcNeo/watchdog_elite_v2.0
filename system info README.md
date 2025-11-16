@@ -27,7 +27,7 @@ All data is collected from **real-world system metrics** via `psutil`. * **No De
 * * **Full Lifecycle:** Track training history and save/load models to JSON.
 * * **Metrics:** Calculates accuracy, precision, recall, and F1-score. ```python # Example of the pure NumPy NN nn = NumpyNeuralNetwork( input_size=50, hidden_layers=[128, 64, 32], output_size=2, learning_rate=0.001 ) nn.train(X_train, y_train, epochs=100, batch_size=32) nn.save_model("nn_models/my_model.json") 
 
-3. Advanced Data Visualization
+##Advanced Data Visualization
 
 3D Visualizations: Live, interactive matplotlib 3D projections for:
 
@@ -49,7 +49,7 @@ Network Heatmap (connection activity)
 
 Threat Heatmap (threat score distribution)
 
-4. Real-World Data Collection (No Simulations)
+##Real-World Data Collection (No Simulations)
 
 The RealWorldDataCollector class uses psutil to pull live data from the host machine.
 
@@ -83,59 +83,12 @@ Local Outlier Factor (LOF)
 
 Gradient Boosting Classifier
 
-🖼️ Gallery
-
-(Add your screenshots to an images folder in your repo to display them here.)
-
 Live Neural Network Training:
 
 3D Threat Landscape:
 
 Threat Heatmap:
 
-🛠️ Getting Started
-
-Follow these steps to get a local copy up and running.
-
-System Requirements
-
-OS: Linux (Debian-based) or ChromeOS (with Linux environment)
-
-Python: 3.8+
-
-RAM: 4 GB (Minimum)
-
-Installation
-
-System-Level Dependencies (For Tkinter & Matplotlib backends)
-
-Bash
-
-sudo apt-get update sudo apt-get install -y python3-tk python3-dev 
-
-Clone the Repo
-
-Bash
-
-git clone [https://github.com/YOUR_USERNAME/watchdog-elite.git](https://github.com/YOUR_USERNAME/watchdog-elite.git) cd watchdog-elite 
-
-Install Python Packages First, create a requirements.txt file with the following content:
-
-Plaintext
-
-# requirements.txt numpy matplotlib cryptography argon2-cffi scikit-learn psutil 
-
-Now, install them using pip:
-
-Bash
-
-pip install -r requirements.txt 
-
-Run the Application
-
-Bash
-
-python3 watchdog_elite_v2.0.py 
 
 Usage
 
@@ -169,7 +122,18 @@ Watch the Training Loss and Training Accuracy graphs update in real-time.
 
 The application creates a ~/.watchdog_elite/ directory in your home folder to store all data, ensuring the main project folder remains clean.
 
-~/.watchdog_elite/ ├── logs/ # System logs ├── ml_models/ # Sklearn models (joblib files) ├── nn_models/ # Pure NumPy Neural Network models (JSON files) ├── quantum_secure/ # Encrypted data │ └── quantum_keys/ # Quantum keys ├── heatmaps/ # Saved heatmap data ├── visualizations/ # Exported visualizations ├── forensics/ # Forensic data logs ├── backups/ # System backups ├── state/ # Runtime state └── cache/ # Temporary cache 
+~/.watchdog_elite/
+├── logs/ # System logs
+├── ml_models/ # Sklearn models (joblib files)
+├── nn_models/ # Pure NumPy Neural Network models (JSON files)
+├── quantum_secure/ # Encrypted data
+│  └── quantum_keys/ # Quantum keys
+├── heatmaps/ # Saved heatmap data
+├── visualizations/ # Exported visualizations
+├── forensics/ # Forensic data logs
+├── backups/ # System backups
+├── state/ # Runtime state
+└── cache/ # Temporary cache 
 
 🧪 Testing
 
