@@ -1,0 +1,13 @@
+# ----------------------------------------------------------------- # Requirements for Watchdog Elite v2.0 # ----------------------------------------------------------------- 
+# This file lists all necessary Python packages.
+# Install them using: pip install -r requirements.txt
+# Core numerical and scientific computing numpy
+# Powers the Pure NumPy Neural Network and other math matplotlib
+# Used for all 2D graphs, 3D visualizations, and heatmaps scikit-learn
+# For the ML ensemble models (IsolationForest, DBSCAN, etc.) # System Monitoring & Utilities psutil
+# For real-world data collection (CPU, Memory, Network) # Cryptography & Security cryptography
+# Core cryptographic functions (AES, ChaCha20) argon2-cffi
+# For Argon2id key derivation and hashing
+# Note:
+# tkinter (for the GUI) is part of the standard Python library
+# and does not need to be listed in requirements.txt.
