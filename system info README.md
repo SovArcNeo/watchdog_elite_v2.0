@@ -1,10 +1,9 @@
 # Watchdog Elite v2.0
-[![Status](https://img.shields.io/badge/status-operational-success.svg)](https://github.com/YOUR_USERNAME/watchdog-elite) [![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20ChromeOS-blue.svg)](https://github.com/YOUR_USERNAME/watchdog-elite) [![Python-Version](https0:/img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/) [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE.md) 
+[![Status](https://img.shields.io/badge/status-operational-success.svg)](https://github.com/YOUR_USERNAME/watchdog-elite) [![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20ChromeOS-blue.svg)](https://github.com/YOUR_USERNAME/watchdog-elite) [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/) [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE.md) 
 A standalone, AI-powered "Quantum Sentinel" with a custom Matrix-style GUI, built from the ground up in Python. This platform provides a complete environment for neural network training, real-time system monitoring, and advanced threat visualization.
 ## 📋 Table of Contents - 
 [About The Project](#-about-the-project)  
-[Key Features](#-key-features) 
-[Gallery](#-gallery) 
+[Key Features](#-key-features)  
 [Getting Started](#-getting-started) 
 [Usage](#-usage)
 [File Structure](#-file-structure)
