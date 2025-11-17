@@ -1,9 +1,5 @@
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md)
-[![GitHub Stars](https://img.shields.io/github/stars/SovArchNeo/watchdog_elite_v2.0.svg)](https://github.com/SovArchNeo/watchdog_elite_v2.0/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/SovArchNeo/watchdog_elite_v2.0.svg)](https://github.com/SovArchNeo/watchdog_elite_v2.0/network/members)
-[![GitHub Issues](https://img.shields.io/github/issues/SovArchNeo/watchdog_elite_v2.0.svg)](https://github.com/SovArchNeo/watchdog_elite_v2.0/issues)
-<br>
 [![Made with NumPy](https://img.shields.io/badge/Made%20with-NumPy-blueviolet.svg)](https://numpy.org/)
 [![Made with Matplotlib](https://img.shields.io/badge/Made%20with-Matplotlib-orange.svg)](https://matplotlib.org/)
 [![Made with Scikit-learn](https://img.shields.io/badge/Made%20with-Scikit--learn-orange.svg)](https://scikit-learn.org/)
