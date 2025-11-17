@@ -4,7 +4,6 @@
 [![GitHub Forks](https://img.shields.io/github/forks/SovArchNeo/watchdog_elite_v2.0.svg)](https://github.com/SovArchNeo/watchdog_elite_v2.0/network/members)
 [![GitHub Issues](https://img.shields.io/github/issues/SovArchNeo/watchdog_elite_v2.0.svg)](https://github.com/SovArchNeo/watchdog_elite_v2.0/issues)
 <br>
-[![Made with Python](httpsV://img.shields.io/badge/Made%20with-Python-blue.svg)](https://www.python.org/)
 [![Made with NumPy](https://img.shields.io/badge/Made%20with-NumPy-blueviolet.svg)](https://numpy.org/)
 [![Made with Matplotlib](https://img.shields.io/badge/Made%20with-Matplotlib-orange.svg)](https://matplotlib.org/)
 [![Made with Scikit-learn](https://img.shields.io/badge/Made%20with-Scikit--learn-orange.svg)](https://scikit-learn.org/)
