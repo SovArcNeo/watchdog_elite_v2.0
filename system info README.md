@@ -156,3 +156,4 @@ SovArcNeo (The Architect) - [c_davenport795@proton.me]
 
 This system is a proof-of-concept for a larger "sovereign AI" ecosystem. I am available for high-level AI/Security consultation and custom agent development.
 
+## Commercial licensing / support / custom builds: DM me
