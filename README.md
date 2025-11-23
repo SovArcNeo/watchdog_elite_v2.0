@@ -25,15 +25,12 @@ The interface is a custom-engineered **Matrix GUI** featuring real-time 3D visua
 |**Quantum Sentinel Dashboard**  | **Terminal Injection** |
 |:---:|:---:|
 | <img width="1919" height="1074" alt="Screenshot 2025-11-22 11 14 33 PM" src="https://github.com/user-attachments/assets/d421d08c-9e17-4dd9-b01d-461793373f8d" /> | <img width="1919" height="1074" alt="Screenshot 2025-11-22 11 13 03 PM" src="https://github.com/user-attachments/assets/8d738d65-0f2e-4047-9eeb-a303e598bb23" />
-
- |
-| *System Boot Sequence* | *Real-time Activity Log & System Status* |
+| **System Boot Sequence** | **Real-time Activity Log & System Status** |
 
 | **Neural Training Core** | **3D Threat Topology** |
 |:---:|:---:|
 | <img width="1919" height="1078" alt="Screenshot 2025-11-22 11 24 18 PM" src="https://github.com/user-attachments/assets/85e98e30-6eda-46d6-bfc0-df9e1115d1c3" /> | <img width="1919" height="1074" alt="Screenshot 2025-11-22 11 13 53 PM" src="https://github.com/user-attachments/assets/c0fceec9-e221-4e50-9265-ed464d37d1e8" />
- |
-| *Live Loss/Accuracy training curves* | *3D visualization of network layers* |
+| **Live Loss/Accuracy training curves** | **3D visualization of network layers** |
 
 ---
 
