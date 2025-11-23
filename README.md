@@ -1,11 +1,11 @@
-# WATCHDOG ELITE v2.0
-## Quantum Sentinel // Matrix Fortress Edition
-
 [![System](https://img.shields.io/badge/SYSTEM-WATCHDOG_ELITE_v2.0-00FF41?style=for-the-badge&labelColor=000000)](https://github.com/SovArcNeo)
 [![Crypto](https://img.shields.io/badge/CRYPTO-QUANTUM_RESISTANT-purple?style=for-the-badge&labelColor=000000)](https://github.com/SovArcNeo)
 [![Neural](https://img.shields.io/badge/AI-PURE_NUMPY_ENGINE-blue?style=for-the-badge&labelColor=000000)](https://numpy.org/)
 [![Visuals](https://img.shields.io/badge/GUI-MATRIX_CODE_RAIN-00FF41?style=for-the-badge&labelColor=000000)](https://docs.python.org/3/library/tkinter.html)
 [![License](https://img.shields.io/badge/LICENSE-MIT-gray?style=for-the-badge&labelColor=000000)](LICENSE)
+
+# WATCHDOG ELITE v2.0
+## Quantum Sentinel // Matrix Fortress Edition
 
 # ⚖️ Legal & Ethical Use
 
@@ -19,7 +19,7 @@ The interface is a custom-engineered **Matrix GUI** featuring real-time 3D visua
 
 ---
 
-## 🕶️ The Matrix Interface
+## 🕶️ Watch Dog Elite Sentinel
 > *The system is watching. Real-time telemetry and neural visualization.*
 
 |**Quantum Sentinel Dashboard**  | **Terminal Injection** |
@@ -31,6 +31,12 @@ The interface is a custom-engineered **Matrix GUI** featuring real-time 3D visua
 |:---:|:---:|
 | <img width="1919" height="1078" alt="Screenshot 2025-11-22 11 24 18 PM" src="https://github.com/user-attachments/assets/85e98e30-6eda-46d6-bfc0-df9e1115d1c3" /> | <img width="1919" height="1074" alt="Screenshot 2025-11-22 11 13 53 PM" src="https://github.com/user-attachments/assets/c0fceec9-e221-4e50-9265-ed464d37d1e8" />
 | **Live Loss/Accuracy training curves** | **3D visualization of network layers** |
+
+| **Threat Detection Heat Map** | **Threat Landscape** |
+|:---:|:---:|
+| <img width="1919" height="1078" alt="Screenshot 2025-11-16 6 07 03 PM" src="https://github.com/user-attachments/assets/381b491a-9042-4616-b6fa-f29ef1473227" /> | <img width="1919" height="1078" alt="Screenshot 2025-11-23 3 27 41 AM" src="https://github.com/user-attachments/assets/2043701a-4821-46e3-9b8f-77ce9fedeb66" /> |
+
+
 
 ---
 
